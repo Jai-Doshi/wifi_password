@@ -20,8 +20,8 @@ server.starttls()
 # change "your_email_address" to your real email address
 #  "your_password" to email password
 
-server.login('jaidoshi18@gmail.com', 'Badshah2001')
-server.sendmail("jaidoshi18@gmail.com",
-                "jaidoshi18@gmail.com", data)
+server.login('**********@gmail.com', '**********')
+server.sendmail("**********@gmail.com",
+                "**********@gmail.com", data)
 
 server.quit()
